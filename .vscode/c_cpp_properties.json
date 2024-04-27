@@ -1,11 +1,21 @@
 {
-	"configurations": [
-		{
-			"name": "Win32",
-			"cStandard": "c17",
-			"cppStandard": "c++20",
-			"intelliSenseMode": "msvc-x64",
-			"compileCommands": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default.json"
-		}
-	]
+    "configurations": [
+        {
+            "name": "LostAndNotFoundEditor Editor Win64 Development (LostAndNotFound)",
+            "compilerPath": "K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_LostAndNotFound.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
 }

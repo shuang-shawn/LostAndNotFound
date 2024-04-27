@@ -1,2 +1,170 @@
 [
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\Grabber.cpp",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\Grabber.h",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\LostAndNotFound.Build.cs",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\LostAndNotFound.cpp",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\LostAndNotFound.h",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\LostAndNotFoundCharacter.cpp",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\LostAndNotFoundCharacter.h",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\LostAndNotFoundGameMode.cpp",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\LostAndNotFoundGameMode.h",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\LostAndNotFoundPlayerController.cpp",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\LostAndNotFoundPlayerController.h",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\LostAndNotFoundProjectile.cpp",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\LostAndNotFoundProjectile.h",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\Mover.cpp",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\Mover.h",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\TP_PickUpComponent.h",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\TP_WeaponComponent.h",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\TriggerComponent.cpp",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\Source\\LostAndNotFound\\TriggerComponent.h",
+		"arguments": [
+			"K:\\CS\\Visual Studio\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@K:\\UE_repos\\LostAndNotFound\\LostAndNotFound\\.vscode\\compileCommands_Default\\LostAndNotFound.1.rsp"
+		],
+		"directory": "K:\\UE_5.3\\UE_5.4\\Engine\\Source"
+	}
 ]
